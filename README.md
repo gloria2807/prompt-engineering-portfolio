@@ -28,7 +28,7 @@ Transforming complex technical topics such as Web3, DeFi, and AI systems into cl
 I have over two years of experience in frontend development and three years of experience working with AI-driven content and prompt engineering. My goal is to improve human-AI interaction by designing structured prompt systems and scalable AI workflows.
 
 ## **Education**
-| **Degree** | **Institution** | **Year** | **GPA/Percentage** | |----------------------------------|----------------------------------------|-------------|--------------------| | **BEng Computer Engineering** | University of Benin | 2018–2023 | 4.12 GPA |
+| **Degree** | **Institution** | **Year** | **GPA/Percentage** | | **BEng Computer Engineering** | University of Benin | 2018–2023 | 4.12 GPA |
 
 ## **Portfolio Highlights**
 1. **Prompts**
