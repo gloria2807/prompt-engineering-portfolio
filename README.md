@@ -31,7 +31,7 @@ I have over two years of experience in frontend development and three years of e
 
 | **Degree**                      | **Institution**                        | **Year**    | **GPA/Percentage** |  
 |----------------------------------|----------------------------------------|-------------|--------------------|  
-| **BEng Computer Engineering** | University of Benin | 2018–2023 | 4.12 GPA |
+| **BEng Computer Engineering** | University of Benin | 2018–2023 | 4.12/5.0 GPA |
 
 ## **Portfolio Highlights**
 1. **Prompts**
