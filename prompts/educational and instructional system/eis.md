@@ -104,7 +104,7 @@ The prompt is to generate:
 
 → Social-media-ready educational material
 
-**Example Result (Optional but VERY strong):**
+**Example Result:**
 ## Introduction
 
 **Degen trading** is a style of trading in crypto where people take **very high risks** in hopes of making **very fast profits**. It is popular in Web3 because crypto markets move quickly, new tokens appear often, and prices can rise or fall sharply in a short time.
